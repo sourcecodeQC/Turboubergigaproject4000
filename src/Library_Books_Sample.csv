@@ -1,0 +1,101 @@
+title,author,isbn,isAvailable,publicationYear,genre,timesCheckedOut
+To Kill a Mockingbird,Harper Lee,978-3-1000000000,True,1920,Fiction,0
+1984,George Orwell,978-3-1000000001,True,1921,Dystopian,0
+The Great Gatsby,F. Scott Fitzgerald,978-3-1000000002,True,1922,Fiction,0
+The Catcher in the Rye,J.D. Salinger,978-3-1000000003,True,1923,Fiction,0
+Pride and Prejudice,Jane Austen,978-3-1000000004,True,1924,Romance,0
+The Lord of the Rings,J.R.R. Tolkien,978-3-1000000005,True,1925,Fantasy,0
+Animal Farm,George Orwell,978-3-1000000006,True,1926,Satire,0
+Moby Dick,Herman Melville,978-3-1000000007,True,1927,Adventure,0
+War and Peace,Leo Tolstoy,978-3-1000000008,True,1928,Historical,0
+Ulysses,James Joyce,978-3-1000000009,True,1929,Modernist,0
+The Odyssey,Homer,978-3-1000000010,True,1930,Epic,0
+Crime and Punishment,Fyodor Dostoevsky,978-3-1000000011,True,1931,Philosophical,0
+The Brothers Karamazov,Fyodor Dostoevsky,978-3-1000000012,True,1932,Philosophical,0
+Jane Eyre,Charlotte Bronte,978-3-1000000013,True,1933,Gothic,0
+Wuthering Heights,Emily Bronte,978-3-1000000014,True,1934,Gothic,0
+Brave New World,Aldous Huxley,978-3-1000000015,True,1935,Dystopian,0
+Fahrenheit 451,Ray Bradbury,978-3-1000000016,True,1936,Dystopian,0
+The Grapes of Wrath,John Steinbeck,978-3-1000000017,True,1937,Historical,0
+Slaughterhouse-Five,Kurt Vonnegut,978-3-1000000018,True,1938,Satire,0
+Catch-22,Joseph Heller,978-3-1000000019,True,1939,War,0
+The Hobbit,J.R.R. Tolkien,978-3-1000000020,True,1940,Fantasy,0
+Alice's Adventures in Wonderland,Lewis Carroll,978-3-1000000021,True,1941,Fantasy,0
+Little Women,Louisa May Alcott,978-3-1000000022,True,1942,Classic,0
+Sense and Sensibility,Jane Austen,978-3-1000000023,True,1943,Romance,0
+Great Expectations,Charles Dickens,978-3-1000000024,True,1944,Classic,0
+One Hundred Years of Solitude,Gabriel Garcia Marquez,978-3-1000000025,True,1945,Magical Realism,0
+Beloved,Toni Morrison,978-3-1000000026,True,1946,Historical,0
+Frankenstein,Mary Shelley,978-3-1000000027,True,1947,Horror,0
+The Adventures of Huckleberry Finn,Mark Twain,978-3-1000000028,True,1948,Adventure,0
+The Iliad,Homer,978-3-1000000029,True,1949,Epic,0
+Don Quixote,Miguel de Cervantes,978-3-1000000030,True,1950,Adventure,0
+The Divine Comedy,Dante Alighieri,978-3-1000000031,True,1951,Poetry,0
+The Count of Monte Cristo,Alexandre Dumas,978-3-1000000032,True,1952,Adventure,0
+Les Misérables,Victor Hugo,978-3-1000000033,True,1953,Historical,0
+Dracula,Bram Stoker,978-3-1000000034,True,1954,Horror,0
+The Picture of Dorian Gray,Oscar Wilde,978-3-1000000035,True,1955,Gothic,0
+The Scarlet Letter,Nathaniel Hawthorne,978-3-1000000036,True,1956,Historical,0
+A Tale of Two Cities,Charles Dickens,978-3-1000000037,True,1957,Historical,0
+Madame Bovary,Gustave Flaubert,978-3-1000000038,True,1958,Realist,0
+Anna Karenina,Leo Tolstoy,978-3-1000000039,True,1959,Realist,0
+The Sun Also Rises,Ernest Hemingway,978-3-1000000040,True,1960,Fiction,0
+Lolita,Vladimir Nabokov,978-3-1000000041,True,1961,Psychological,0
+The Stranger,Albert Camus,978-3-1000000042,True,1962,Existential,0
+The Old Man and the Sea,Ernest Hemingway,978-3-1000000043,True,1963,Fiction,0
+Rebecca,Daphne du Maurier,978-3-1000000044,True,1964,Mystery,0
+Emma,Jane Austen,978-3-1000000045,True,1965,Romance,0
+The Bell Jar,Sylvia Plath,978-3-1000000046,True,1966,Psychological,0
+The Secret Garden,Frances Hodgson Burnett,978-3-1000000047,True,1967,Classic,0
+Treasure Island,Robert Louis Stevenson,978-3-1000000048,True,1968,Adventure,0
+The Road,Cormac McCarthy,978-3-1000000049,True,1969,Post-apocalyptic,0
+Life of Pi,Yann Martel,978-3-1000000050,True,1920,Adventure,0
+The Shining,Stephen King,978-3-1000000051,True,1921,Horror,0
+It,Stephen King,978-3-1000000052,True,1922,Horror,0
+The Green Mile,Stephen King,978-3-1000000053,True,1923,Horror,0
+The Stand,Stephen King,978-3-1000000054,True,1924,Horror,0
+A Clockwork Orange,Anthony Burgess,978-3-1000000055,True,1925,Dystopian,0
+Gone with the Wind,Margaret Mitchell,978-3-1000000056,True,1926,Historical,0
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,978-3-1000000057,True,1927,Science Fiction,0
+The Call of the Wild,Jack London,978-3-1000000058,True,1928,Adventure,0
+Lord of the Flies,William Golding,978-3-1000000059,True,1929,Dystopian,0
+Heart of Darkness,Joseph Conrad,978-3-1000000060,True,1930,Adventure,0
+Of Mice and Men,John Steinbeck,978-3-1000000061,True,1931,Historical,0
+The Metamorphosis,Franz Kafka,978-3-1000000062,True,1932,Philosophical,0
+The Trial,Franz Kafka,978-3-1000000063,True,1933,Philosophical,0
+Siddhartha,Hermann Hesse,978-3-1000000064,True,1934,Philosophical,0
+The Alchemist,Paulo Coelho,978-3-1000000065,True,1935,Philosophical,0
+The Little Prince,Antoine de Saint-Exupéry,978-3-1000000066,True,1936,Fable,0
+The Master and Margarita,Mikhail Bulgakov,978-3-1000000067,True,1937,Magical Realism,0
+The Handmaid's Tale,Margaret Atwood,978-3-1000000068,True,1938,Dystopian,0
+The Road,Cormac McCarthy,978-3-1000000069,True,1939,Post-apocalyptic,0
+Invisible Man,Ralph Ellison,978-3-1000000070,True,1940,Fiction,0
+Native Son,Richard Wright,978-3-1000000071,True,1941,Fiction,0
+Things Fall Apart,Chinua Achebe,978-3-1000000072,True,1942,Historical,0
+I Know Why the Caged Bird Sings,Maya Angelou,978-3-1000000073,True,1943,Autobiography,0
+The Color Purple,Alice Walker,978-3-1000000074,True,1944,Historical,0
+The Poisonwood Bible,Barbara Kingsolver,978-3-1000000075,True,1945,Historical,0
+A Prayer for Owen Meany,John Irving,978-3-1000000076,True,1946,Fiction,0
+The Glass Castle,Jeannette Walls,978-3-1000000077,True,1947,Biography,0
+The Book Thief,Markus Zusak,978-3-1000000078,True,1948,Historical,0
+Angela's Ashes,Frank McCourt,978-3-1000000079,True,1949,Memoir,0
+The Kite Runner,Khaled Hosseini,978-3-1000000080,True,1950,Historical,0
+A Thousand Splendid Suns,Khaled Hosseini,978-3-1000000081,True,1951,Historical,0
+Water for Elephants,Sara Gruen,978-3-1000000082,True,1952,Romance,0
+Memoirs of a Geisha,Arthur Golden,978-3-1000000083,True,1953,Historical,0
+The Help,Kathryn Stockett,978-3-1000000084,True,1954,Fiction,0
+Gone Girl,Gillian Flynn,978-3-1000000085,True,1955,Mystery,0
+The Girl with the Dragon Tattoo,Stieg Larsson,978-3-1000000086,True,1956,Mystery,0
+The Da Vinci Code,Dan Brown,978-3-1000000087,True,1957,Mystery,0
+Angels and Demons,Dan Brown,978-3-1000000088,True,1958,Mystery,0
+Inferno,Dan Brown,978-3-1000000089,True,1959,Mystery,0
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,978-3-1000000090,True,1960,Fantasy,0
+Harry Potter and the Chamber of Secrets,J.K. Rowling,978-3-1000000091,True,1961,Fantasy,0
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,978-3-1000000092,True,1962,Fantasy,0
+Harry Potter and the Goblet of Fire,J.K. Rowling,978-3-1000000093,True,1963,Fantasy,0
+Harry Potter and the Order of the Phoenix,J.K. Rowling,978-3-1000000094,True,1964,Fantasy,0
+Twilight,Stephenie Meyer,978-3-1000000095,True,1965,Romance,0
+New Moon,Stephenie Meyer,978-3-1000000096,True,1966,Romance,0
+Eclipse,Stephenie Meyer,978-3-1000000097,True,1967,Romance,0
+Breaking Dawn,Stephenie Meyer,978-3-1000000098,True,1968,Romance,0
+Fifty Shades of Grey,E.L. James,978-3-1000000099,True,1969,Romance,0
